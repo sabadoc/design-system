@@ -106,7 +106,7 @@ For more information see the [Full annotation docs](https://github.com/salesforc
 Install [gulp](http://gulpjs.com/) globally:
 
 ```bash
-npm install --global gulp
+npm install --g gulp
 ```
 
 ### `npm start`
